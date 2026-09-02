@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+paper/main.pdf
+paper/*.aux
+paper/*.log
+paper/
+results/
